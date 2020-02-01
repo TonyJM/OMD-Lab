@@ -1,0 +1,19 @@
+Software Requirements Specification for Collge Management System
+Purpose
+Our Product is a College Managements System that simplifies the process of course registration. The system will allow students to register their courses online. The information is directly relayed to the college databas and reduces paperwork, travelling and time consumption.
+
+Product Functions
+1. Provides interface selecting courses to register.
+2. Student details and registered courses are stored in college database.
+
+Requirements
+Functional
+1. Students can log in and check the courses they have registered for.
+2. Admin can check the entire database to see student details.
+Non-Functional
+1. Maintainability
+2. Security
+
+Modules
+Admin: Admin is a person whose responsibility is to maintain the database that contains each and every data regarding the all the student. Admin can add student details into the database, can be able to delete student details and can update the student course details.
+User: Here the user means the student. The responsibility of the student is to login into the site andregister for courses during the alloted time. 
